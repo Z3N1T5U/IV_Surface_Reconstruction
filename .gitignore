@@ -5,3 +5,4 @@ __pycache__/
 *.joblib
 outputs/
 data/processed/
+venv/
