@@ -38,3 +38,12 @@ For each timestamp:
 
 \- Remaining missing values are filled using time interpolation.
 
+
+
+| Method | Public MSE |
+|---|---:|
+| Row-wise CE/PE mean | 0.0234618566 |
+| Linear interpolation | 0.0000423397 |
+| Quadratic interpolation | 0.0000649789 |
+| Cubic interpolation | 0.0002751123 |
+| Linear clipped | 0.0295588421 |
