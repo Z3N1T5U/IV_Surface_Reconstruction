@@ -3,6 +3,5 @@ __pycache__/
 .env
 *.pkl
 *.joblib
-outputs/
 data/processed/
 venv/
